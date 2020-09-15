@@ -52,7 +52,7 @@ mfxI32 const MAX_QP_CHANGE      = 2;
 mfxF64 const MIN_EST_RATE       = 0.3;
 mfxF64 const NORM_EST_RATE      = 100.0;
 
-mfxF64 const MIN_RATE_COEFF_CHANGE = 0.5;
+mfxF64 const MIN_RATE_COEFF_CHANGE  = 0.5;
 mfxF64 const MAX_RATE_COEFF_CHANGE = 2.0;
 
 
